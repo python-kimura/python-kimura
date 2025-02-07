@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Anvar! 👋
+🎓 I’m a student passionate about programming and technology.
 
-<!--
-**python-kimura/python-kimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Right now, I’m learning Python and front-end development to create functional and visually appealing web applications.
 
-Here are some ideas to get you started:
+💻 My current skills include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python, HTML, CSS
+Frameworks: Flask (Python), Bootstrap
+Tools: Git, Visual Studio Code
+📈 In the near future, I plan to deepen my knowledge in:
+
+Web application development with Python (Django/Flask)
+Frontend (React.js, Tailwind CSS)
+Databases (SQL)
+🌟 If you’re interested in my projects or want to share advice, I’d love to connect!
+
+📝 You can reach me at:
+
+Email: abdulhalikovanvar247@gmail.com
+💡 I’m constantly learning and open to new challenges. Welcome to my coding world! 🚀
