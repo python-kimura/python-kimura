@@ -15,7 +15,6 @@ Frontend (Tailwind CSS)
 Databases (SQL)
 🌟 If you’re interested in my projects or want to share advice, I’d love to connect!
 
-📝 You can reach me at:
-Telegram: 
+📝 You can reach me at: 
 Email: abdulhalikovanvar247@gmail.com
 💡 I’m constantly learning and open to new challenges. Welcome to my coding world! 🚀
