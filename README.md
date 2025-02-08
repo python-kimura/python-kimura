@@ -6,15 +6,16 @@
 💻 My current skills include:
 
 Languages: Python, HTML, CSS
+
 Frameworks: Flask (Python), Bootstrap
+
 Tools: Git, Visual Studio Code
+
 📈 In the near future, I plan to deepen my knowledge in:
 
-Web application development with Python (Django/Flask)
-Frontend (Tailwind CSS)
+Web application development with Python (Django/Flask),
+Frontend (Tailwind CSS),
 Databases (SQL)
-🌟 If you’re interested in my projects or want to share advice, I’d love to connect!
 
 📝 You can reach me at: 
 Email: abdulhalikovanvar247@gmail.com
-💡 I’m constantly learning and open to new challenges. Welcome to my coding world! 🚀
