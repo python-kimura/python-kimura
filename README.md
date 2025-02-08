@@ -7,8 +7,6 @@
 
 Languages: Python, HTML, CSS
 
-Frameworks: Flask (Python), Bootstrap
-
 Tools: Git, Visual Studio Code
 
 📈 In the near future, I plan to deepen my knowledge in:
